@@ -9,3 +9,5 @@
 ## 4. commit README.md
 
 ## 5. new branchB
+
+## 6. commit master once
