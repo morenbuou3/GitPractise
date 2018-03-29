@@ -13,3 +13,5 @@
 ## 6. commit master once
 
 ## 7. commit master twice
+
+## 8. git stash
