@@ -11,3 +11,5 @@
 ## 5. new branchB
 
 ## 6. commit master once
+
+## 7. commit master twice
